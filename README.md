@@ -69,6 +69,44 @@
     <td align="center"><strong>팀원</strong></td>
     <td align="center"><strong>팀원</strong></td>
   </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>상품 목록 화면/기능</li>
+        <li>북마크 기능</li>
+        <li>타건 사운드 체험 기능</li>
+        <li>구매 내역 화면/기능</li>
+        <li>일정 조율 및 문서 관리</li>
+        <li>발표 자료 준비</li>
+      <ul>
+    </td>
+    <td>
+      <ul>
+        <li>로그인 화면/기능</li>
+        <li>회원가입 화면/기능</li>
+        <li>회원 정보 화면/기능</li>
+        <li>장바구니 비우기 기능</li>
+        <li>구매 결제 기능</li>
+      <ul>
+    </td>
+    <td>
+      <ul>
+        <li>상품 상세 화면/기능</li>
+        <li>리뷰 화면/기능</li>
+        <li>Q&A 화면/기능</li>
+        <li>상품 검색 및 정렬 기능</li>
+      <ul>
+    </td>
+    <td>
+      <ul>
+        <li>결제 페이지 화면</li>
+        <li>장바구니 화면</li>
+        <li>장바구니 수량 기능</li>
+        <li>사운드 편집</li>
+        <li>기획 및 발표</li>
+      <ul>
+    </td>
+  </tr>
 </table>
 
 ## 💡 기획 구조도
